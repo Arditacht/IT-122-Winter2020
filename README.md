@@ -1,2 +1,2 @@
 # IT-122
-Advanced JavaScript
+JavaScript Class Winter 2020
